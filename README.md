@@ -1,1 +1,2 @@
-# auto-mass-deface
+python exploit.py
+
